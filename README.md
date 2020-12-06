@@ -4,7 +4,7 @@ Domain Adaption Via Relation-Guided Dilated Attention
 ## Prerequisites:
 
 * Python3
-* PyTorch == 1.0.0 (with suitable CUDA and CuDNN version)
+* PyTorch == 1.5.0 (with suitable CUDA and CuDNN version)
 * Numpy
 * argparse
 * PIL
